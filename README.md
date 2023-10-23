@@ -1,5 +1,33 @@
 # CMPG-323-Project5---34202676
 
+## Description on how to use the Power BI report
+1. Navigation:
+   - Open the data visualization file in either Excel or Power BI.
+   - Look for tabs, buttons, or sections that stand out—they often represent different views or analyses.
+
+1. Interact with Charts:
+   - Hover over data points on charts for additional information.
+   - Click on different elements (bars, lines, etc.) to see how the data changes.
+
+1. Filters:
+   - Check for filter options—these might be dropdown menus, sliders, or checkboxes.
+   - Use filters to focus on specific time periods, categories, or other relevant factors.
+
+1. Drill Down:
+   - If there are hierarchical structures, try drilling down into more detailed levels. Look for clickable elements or icons.
+
+1. Export Data:
+   - Explore options to export data if you want to analyze it further or create your own reports. This is often available in the toolbar or menu.
+
+1. Dashboard View:
+   - If there's a dashboard, navigate between different visualizations to get a comprehensive understanding.
+
+1. Refresh Data:
+   - If the data is regularly updated, find the option to refresh it to ensure you're working with the latest information.
+
+1. Saving:
+   - Save any changes you make, especially if you're customizing views or filters.
+
 ## Reference List
 - Becker, L.T. and Gould, E.M., 2019. Microsoft power BI: Extending excel to manipulate, analyze, and visualize diverse data. Serials Review, 45(3), pp.184-188.
 - Ferrari, A. and Russo, M., 2017. Analyzing data with power BI and power pivot for excel. microsoft press.
